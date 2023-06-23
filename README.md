@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Link para o clone: https://tiktok---jornada-2ed37.web.app/ \
+Link: https://tiktok---jornada-2ed37.web.app/ \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
