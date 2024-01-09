@@ -1,5 +1,6 @@
+Projeto descontinuado por conta de direitos autorais.
+
 # Getting Started with Create React App
-Click here to see the project: [Tik Tok Clone](https://tiktok---jornada-2ed37.web.app/) \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
