@@ -1,6 +1,6 @@
-Projeto descontinuado por conta de direitos autorais.
+# <h1> DESCONTINUADO POR CONTA DE DIREITOS AUTORAIS </h1>
 
-# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
